@@ -4,7 +4,8 @@ body{
         background-image: url(./background.jpeg);
         background-size:cover;
         background-repeat: no-repeat;
-        height:1000px;
+        background-position:center center;
+        background-attachment:fixed;
         color:snow;
         font-size: 30px;
         font-family:'Franklin Gothic Medium';
