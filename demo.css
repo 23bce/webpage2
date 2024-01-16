@@ -1,0 +1,26 @@
+body{
+        margin:0;
+        padding:0;
+        background-image: url(./background.jpeg);
+        background-size:cover;
+        background-repeat: no-repeat;
+        height:1000px;
+        color:snow;
+        font-size: 30px;
+        font-family:'Franklin Gothic Medium';
+}
+h1.center-text{
+    text-align: center;
+    font-size:80px;
+    color:snow;
+}
+h2.center-text{
+    text-align: center;
+    font-size:50px;
+    color:rgb(175, 173, 173);
+}
+h3.center-text{
+    text-align: center;
+    font-size:50px;
+    color:rgb(175, 173, 173);
+}
